@@ -1,0 +1,29 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.sectionContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 100px;
+  padding-left: 100px;
+  background-color: #aebec5;
+  padding-bottom: 150px;
+}
+
+.homeImg {
+  height: 600px;
+  width: 600px;
+}
+
+.homeDescription {
+  font-size: 45px;
+  display: block;
+}
+
+.homeName {
+  color: #073b4c;
+  font-size: larger;
+  font-weight: 600;
+}
