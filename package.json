@@ -1,5 +1,5 @@
 {
-  "name": "rowilportfolio",
+  "name": "project-siargao",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,11 +12,15 @@
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
-    "@material-ui/icons": "^4.11.3",
-    "@mui/icons-material": "^5.14.1",
-    "@mui/material": "^5.14.2",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.5",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@mui/x-date-pickers": "^6.11.2",
+    "dayjs": "^1.11.9",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
+    "styled-components": "^6.0.6"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
